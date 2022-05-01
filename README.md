@@ -5,8 +5,7 @@ A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScr
 
 # Usage
 
-    git clone https://github.com/harikanani/node-blockchain.git
-
+    git clone https://github.com/Mahdisaghroun/node-blockchain.git
     npm install
 
     npm start
